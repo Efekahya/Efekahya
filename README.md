@@ -35,6 +35,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<tr>
   <a href="https://linkedin.com/in/AVS1508">LinkedIn</a>
 <a href="mailto:efekahya.ek@gmail.com">E-Mail</a>
