@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software\
 🎓 &nbsp;I'm currently studying Computer Science at Dokuz Eylül University.\
 🌱 &nbsp;I'm on track for learning more about Backend technologies and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at efekahya.ek@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at efekahya.ek@gmail.com I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,13 +28,13 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Efekahya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Efekahya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:efekahya.ek@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/AVS1508"></a>
+<a href="mailto:efekahya.ek@gmail.com"></a>
